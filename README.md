@@ -22,22 +22,24 @@ The primary objective of this project was to analyze **Customer churn** and buil
 
 
 ## **Insights**
-Through comprehensive exploratory data analysis and modeling, several key insights were uncovered:
-Through comprehensive exploratory data analysis and modeling, several key insights were uncovered:
-Insight 1: [Describe the first key insight, e.g., "High customer churn is observed in the first three months of subscription."]
-Insight 2: [Describe the second key insight, e.g., "Sales tend to spike during holiday seasons, indicating a strong seasonal trend."]
-Insight 3: [Describe the third key insight, e.g., "Customers who engage with the mobile app more frequently have a higher lifetime value."]
+#### Through comprehensive exploratory data analysis and modeling, several key insights were uncovered:
+
+- Around **9.72%** of the customers change their providers.
+- Net margin on power subscription and consumption over **12 months** is a top driver for churn.
+- customers who first subscribed to different electricity campaigns, the proportion of churning customers ranges from **6.0% to 12.6%.**
+- Nearly **10%** **(9.7%)** of the customers have churned and **90%** of the customers have not churned.
+- Forecasted bill of meter rental for the next 2 months also is an influential driver.
+- Most cutomers started their contracts from **2009 to 2013.** Among these cutomers, it seems newer customers are more likely to switch to other providers.
+- Most cutomers stayed with the current providers for **3 to 6 years.** Among these customers, it seems newer customers are more likely to switch to other providers.
+- Only **18.15%** of the clients were also gas clients.
+- Electricity clients are more likely to churn than electricity and gas clients.
+- the cutomers whose off-peak enery prices increased, around **9.72%** of customers changed their providers.
+
 
 
 ## **Recommendations**
-#### Based on the analysis and findings, the following recommendations are proposed:
+Time seems to be an influential factor, especially the number of months they have been active, their tenure and the number of months since they updated their contract.Based on the results above, it seems offering a discount to the predicted churning customers can increase the expected profit from these customers.
 
-Recommendation 1: [Specific actionable recommendation based on the insights]
-Recommendation 2: [Specific actionable recommendation based on the insights]
-Recommendation 3: [Specific actionable recommendation based on the insights]
-Recommendation 1: [Actionable recommendation based on Insight 1, e.g., "Implement a targeted retention strategy for new customers within the first three months."]
-Recommendation 2: [Actionable recommendation based on Insight 2, e.g., "Increase marketing efforts during holiday seasons to capitalize on the sales spike."]
-Recommendation 3: [Actionable recommendation based on Insight 3, e.g., "Enhance the mobile app experience to encourage frequent use and increase customer lifetime value."]
 
 
 

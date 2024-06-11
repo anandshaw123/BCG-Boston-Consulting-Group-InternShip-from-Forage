@@ -3,6 +3,8 @@
 #### BCG Boston Consulting-Group-Intern from Forage
 
 
+
+
 ## **Objective**
 The primary objective of this project was to analyze **Customer churn** and build **ML Model** to derive actionable insights and provide data-driven recommendations. The project involved several key phases: **Business Understanding & Hypothesis Framing** , **Exploratory Data Analysis (EDA)** , **Feature Engineering & Modelling** , and **Findings & Recommendations.**
 

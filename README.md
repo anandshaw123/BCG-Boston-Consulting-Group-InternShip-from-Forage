@@ -5,7 +5,7 @@
 
 
 ## **Objective**
-The primary objective of this project was to analyze **Customer churn** and build **ML Model** to derive actionable insights and provide data-driven recommendations. The project involved several key phases: **Business Understanding & Hypothesis Framing** , **Exploratory Data Analysis (EDA)** , **Feature Engineering & Modelling** , and **Findings & Recommendations.**
+The primary objective of this project was to analyze **Customer churn** and find which **churn's** are active or not and build **ML Model** to derive actionable insights and provide data-driven recommendations. The project involved several key phases: **Business Understanding & Hypothesis Framing** , **Exploratory Data Analysis (EDA)** , **Feature Engineering & Modelling** , and **Findings & Recommendations.**
 
 
 ## **Tools**
